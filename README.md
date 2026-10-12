@@ -25,7 +25,7 @@ A simple and colorful command-line task manager written in Python.
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/task-manager.git
+git clone https://github.com/Rinaa-22/task-manager.git
 cd task-manager
 2. (Optional) Create a virtual environment:
 
@@ -99,5 +99,5 @@ This project is open source and available under the [MIT License](https://choose
 
 ## 👤 Author
 
-Your Name
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Arina Madadi
+- GitHub: [@Rinaa-22](https://github.com/Rinaa-22)
